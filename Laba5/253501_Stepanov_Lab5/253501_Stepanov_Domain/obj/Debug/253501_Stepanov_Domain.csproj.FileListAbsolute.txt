@@ -1,0 +1,6 @@
+D:\WorkTable\BSUIR\Программирование_сем2\Laba5\253501_Stepanov_Lab5\253501_Stepanov_Domain\bin\Debug\253501_Stepanov_Domain.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba5\253501_Stepanov_Lab5\253501_Stepanov_Domain\bin\Debug\253501_Stepanov_Domain.pdb
+D:\WorkTable\BSUIR\Программирование_сем2\Laba5\253501_Stepanov_Lab5\253501_Stepanov_Domain\obj\Debug\253501_Stepanov_Domain.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba5\253501_Stepanov_Lab5\253501_Stepanov_Domain\obj\Debug\253501_Stepanov_Domain.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba5\253501_Stepanov_Lab5\253501_Stepanov_Domain\obj\Debug\253501_Stepanov_Domain.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba5\253501_Stepanov_Lab5\253501_Stepanov_Domain\obj\Debug\253501_Stepanov_Domain.pdb

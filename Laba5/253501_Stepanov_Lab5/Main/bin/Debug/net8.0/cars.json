@@ -1,0 +1,47 @@
+[
+  {
+    "engine": {
+      "Power": 200,
+      "Works": true,
+      "FuelType": "Gasoline"
+    },
+    "Model": "Camry",
+    "Year": 2022
+  },
+  {
+    "engine": {
+      "Power": 180,
+      "Works": true,
+      "FuelType": "Diesel"
+    },
+    "Model": "Civic",
+    "Year": 2021
+  },
+  {
+    "engine": {
+      "Power": 300,
+      "Works": true,
+      "FuelType": "Gasoline"
+    },
+    "Model": "Mustang",
+    "Year": 2020
+  },
+  {
+    "engine": {
+      "Power": 100,
+      "Works": false,
+      "FuelType": "Gasoline"
+    },
+    "Model": "Vesta",
+    "Year": 2000
+  },
+  {
+    "engine": {
+      "Power": 450,
+      "Works": true,
+      "FuelType": "Diesel"
+    },
+    "Model": "Skyline",
+    "Year": 2023
+  }
+]

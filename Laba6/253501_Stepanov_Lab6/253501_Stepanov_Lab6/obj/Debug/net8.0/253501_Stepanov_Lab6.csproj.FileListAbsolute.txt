@@ -1,0 +1,17 @@
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.AssemblyInfoInputs.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.AssemblyInfo.cs
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\bin\Debug\net8.0\253501_Stepanov_Lab6.exe
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\bin\Debug\net8.0\253501_Stepanov_Lab6.deps.json
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\bin\Debug\net8.0\253501_Stepanov_Lab6.runtimeconfig.json
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\bin\Debug\net8.0\253501_Stepanov_Lab6.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\bin\Debug\net8.0\253501_Stepanov_Lab6.pdb
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\refint\253501_Stepanov_Lab6.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.pdb
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.genruntimeconfig.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\ref\253501_Stepanov_Lab6.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba6\253501_Stepanov_Lab6\253501_Stepanov_Lab6\obj\Debug\net8.0\253501_Stepanov_Lab6.csproj.CopyComplete

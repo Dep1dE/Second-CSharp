@@ -1,0 +1,14 @@
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\bin\Debug\net7.0\253501_Stepanov_Lab3.exe
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\bin\Debug\net7.0\253501_Stepanov_Lab3.deps.json
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\bin\Debug\net7.0\253501_Stepanov_Lab3.runtimeconfig.json
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\bin\Debug\net7.0\253501_Stepanov_Lab3.dll
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\bin\Debug\net7.0\253501_Stepanov_Lab3.pdb
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\253501_Stepanov_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\253501_Stepanov_Lab3.AssemblyInfoInputs.cache
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\253501_Stepanov_Lab3.AssemblyInfo.cs
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\253501_Stepanov_Lab3.csproj.CoreCompileInputs.cache
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\253501_Stepanov_Lab3.dll
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\refint\253501_Stepanov_Lab3.dll
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\253501_Stepanov_Lab3.pdb
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\253501_Stepanov_Lab3.genruntimeconfig.cache
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba3\253501_Stepanov_Lab3\253501_Stepanov_Lab3\obj\Debug\net7.0\ref\253501_Stepanov_Lab3.dll

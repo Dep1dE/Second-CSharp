@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Comp1",
+    "Coast": 2000,
+    "Foreign": false
+  },
+  {
+    "Name": "Comp2",
+    "Coast": 3000,
+    "Foreign": true
+  },
+  {
+    "Name": "Comp3",
+    "Coast": 2500,
+    "Foreign": true
+  },
+  {
+    "Name": "Comp4",
+    "Coast": 1550,
+    "Foreign": false
+  },
+  {
+    "Name": "Comp5",
+    "Coast": 3200,
+    "Foreign": true
+  }
+]

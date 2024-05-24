@@ -1,0 +1,12 @@
+D:\WorkTable\BSUIR\Программирование_сем2\Laba7\253501_Stepanov_Lab7\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba7\253501_Stepanov_Lab7\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba7\253501_Stepanov_Lab7\Threading\bin\Debug\Threading.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba7\253501_Stepanov_Lab7\Threading\bin\Debug\Threading.pdb
+D:\WorkTable\BSUIR\Программирование_сем2\Laba7\253501_Stepanov_Lab7\Threading\obj\Debug\Threading.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba7\253501_Stepanov_Lab7\Threading\obj\Debug\Threading.pdb
+D:\WorkTable\BSUIR\Программирование_сем3\Laba7\253501_Stepanov_Lab7\Threading\bin\Debug\Threading.dll
+D:\WorkTable\BSUIR\Программирование_сем3\Laba7\253501_Stepanov_Lab7\Threading\bin\Debug\Threading.pdb
+D:\WorkTable\BSUIR\Программирование_сем3\Laba7\253501_Stepanov_Lab7\Threading\obj\Debug\Threading.csproj.AssemblyReference.cache
+D:\WorkTable\BSUIR\Программирование_сем3\Laba7\253501_Stepanov_Lab7\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\Программирование_сем3\Laba7\253501_Stepanov_Lab7\Threading\obj\Debug\Threading.dll
+D:\WorkTable\BSUIR\Программирование_сем3\Laba7\253501_Stepanov_Lab7\Threading\obj\Debug\Threading.pdb

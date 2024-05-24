@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "geD4YW1MfpuLn9inVkYkXKMK7dsMG2DFmIYVI/63m8ITIcGRhvXGAnJ7kDDQERo8SMUtPix8mMAfm5Xp7FbaBw==",
+  "success": true,
+  "projectFilePath": "D:\\WorkTable\\BSUIR\\Программирование_сем2\\Laba6\\253501_Stepanov_Lab6\\FileService\\FileService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlads\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

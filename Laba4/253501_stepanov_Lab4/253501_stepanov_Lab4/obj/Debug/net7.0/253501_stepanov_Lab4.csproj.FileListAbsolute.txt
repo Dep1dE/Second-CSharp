@@ -1,0 +1,42 @@
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.AssemblyInfoInputs.cache
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.AssemblyInfo.cs
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.csproj.CoreCompileInputs.cache
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.exe
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.deps.json
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.runtimeconfig.json
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.dll
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.pdb
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.dll
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\refint\253501_stepanov_Lab4.dll
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.pdb
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.genruntimeconfig.cache
+D:\рабочий стол\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\ref\253501_stepanov_Lab4.dll
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.AssemblyInfoInputs.cache
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.AssemblyInfo.cs
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.csproj.CoreCompileInputs.cache
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.dll
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\refint\253501_stepanov_Lab4.dll
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.pdb
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.exe
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.deps.json
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.runtimeconfig.json
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.dll
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.pdb
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.genruntimeconfig.cache
+D:\AnalKapro\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\ref\253501_stepanov_Lab4.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.exe
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.deps.json
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.runtimeconfig.json
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\bin\Debug\net7.0\253501_stepanov_Lab4.pdb
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.AssemblyInfoInputs.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.AssemblyInfo.cs
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.csproj.CoreCompileInputs.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\refint\253501_stepanov_Lab4.dll
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.pdb
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\253501_stepanov_Lab4.genruntimeconfig.cache
+D:\WorkTable\BSUIR\Программирование_сем2\Laba4\253501_stepanov_Lab4\253501_stepanov_Lab4\obj\Debug\net7.0\ref\253501_stepanov_Lab4.dll
